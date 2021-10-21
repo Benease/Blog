@@ -96,7 +96,7 @@ a:focus{
 
 
 .header-default{
-  padding: 40px 0;
+  padding: 2px 0;
   position: relative;
   width: 100%;
 }
@@ -113,7 +113,7 @@ a:focus{
   background: lightgrey;
   border-bottom: 1px solid rgb( 242,245,254);
   right: 0;
-  padding: 25px 0;
+  padding: 0 0;
   transform: translateY(-100%);
   transition: 0.2s transform cubic-bezier(0.3, 0.73, 0.3, 0.7);
   z-index: 4;
@@ -162,10 +162,6 @@ body.down .header-default.clone{
   width: 100px;
   height: 100px;
   border-radius: 50px;
-}
-.navbar--brand{
-
- 
 }
 
 .dropdown-menu{
