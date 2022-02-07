@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'deleteee'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD38517AD23F4A79882909431997A1AD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E436B1B14AC743769C84966A456C85A5 }}
           package: .
